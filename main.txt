@@ -3,14 +3,14 @@
     "banned": "false",
     "purchase_date": "1688364037",
     "till": "2023:7:7:15:55:4444",
-    "uid": "1",
+    "uid": "2",
     "username": "Vapex"
   },
   "c291dGgtMTE0NTk0NjQ0OTk4OCRUbFpKUkVsQklFZGxSbTl5WTJVZ1IxUllJREV3TmpBZ05rZEN3ZXN0": {
-    "banned": "null",
-    "purchase_date": "null",
-    "till": "null",
-    "uid": "null",
-    "username": "null"
+    "banned": "false",
+    "purchase_date": "1689570675",
+    "till": "12:10 17.07.2099",
+    "uid": "1",
+    "username": "kazyavich [dev]"
   }
 }
