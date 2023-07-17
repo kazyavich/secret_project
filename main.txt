@@ -1,11 +1,4 @@
 {
-  "c291dGhOamN3TlRBek9EUTVNalkwT1E9PVRsWkpSRWxCSUVkbFJtOXlZMlVnUjFRZ01UQXpNQT09d2VzdA==": {
-    "banned": "false",
-    "purchase_date": "1688364037",
-    "till": "2023:7:7:15:55:4444",
-    "uid": "2",
-    "username": "Vapex"
-  },
   "c291dGgtMTE0NTk0NjQ0OTk4OCRUbFpKUkVsQklFZGxSbTl5WTJVZ1IxUllJREV3TmpBZ05rZEN3ZXN0": {
     "banned": "false",
     "purchase_date": "1689570675",
