@@ -1,7 +1,7 @@
 {
   "c291dGgtMTE0NTk0NjQ0OTk4OCRUbFpKUkVsQklFZGxSbTl5WTJVZ1IxUllJREV3TmpBZ05rZEN3ZXN0": {
     "banned": "false",
-    "purchase_date": "14:19 16.07.2023",
+    "purchase_date": "14:33 16.07.2023",
     "till": "14:15 18.07.2023",
     "uid": "1",
     "username": "kazyavich [dev]"
