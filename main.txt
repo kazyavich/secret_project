@@ -4,6 +4,6 @@
     "purchase_date": "14:33 16.07.2023",
     "till": "14:15 18.07.2099",
     "uid": "1",
-    "username": "kazyavich [dev]"
+    "username": "kazyavich"
   }
 }
