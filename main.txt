@@ -1,1 +1,16 @@
-ewogICJjMjkxZEdndE1URTBOVGswTmpRME9UazRPQ1JVYkZwS1VrVnNRa2xGWkd4U2JUbDVXVEpWWjFJeFVsbEpSRVYzVG1wQlowNXJaRU4zWlhOMCI6IHsKICAgICJiYW5uZWQiOiAiZmFsc2UiLAogICAgInB1cmNoYXNlX2RhdGUiOiAiMTQ6MzMgMTYuMDcuMjAyMyIsCiAgICAidGlsbCI6ICIxNDoxNSAxOC4wNy4yMDk5IiwKICAgICJ1aWQiOiAiMSIsCiAgICAidXNlcm5hbWUiOiAia2F6eWF2aWNoIgogIH0sCiAgImMyOTFkR2d0TVRFeE1qTTFOall4TmpJNU1pUlViRnBLVWtWc1FrbEZaR3hTYlRsNVdUSlZaMUl4VVdkTlZFRjZUVUU5UFhkbGMzUT0iOiB7CiAgICAiYmFubmVkIjogImZhbHNlIiwKICAgICJwdXJjaGFzZV9kYXRlIjogIjE0OjMzIDE2LjA3LjIwMjMiLAogICAgInRpbGwiOiAiMTQ6MTUgMTguMDcuMjA5OSIsCiAgICAidWlkIjogIjIiLAogICAgInVzZXJuYW1lIjogIlZhcGV4IgogIH0KfQ==
+{
+  "c291dGgtMTE0NTk0NjQ0OTk4OCRUbFpKUkVsQklFZGxSbTl5WTJVZ1IxUllJREV3TmpBZ05rZEN3ZXN0": {
+    "banned": "false",
+    "purchase_date": "14:33 16.07.2023",
+    "till": "14:15 18.07.2099",
+    "uid": "1",
+    "username": "kazyavich"
+  },
+  "c291dGgtMTExMjM1NjYxNjI5MiRUbFpKUkVsQklFZGxSbTl5WTJVZ1IxUWdNVEF6TUE9PXdlc3Q=": {
+    "banned": "false",
+    "purchase_date": "14:33 16.07.2023",
+    "till": "14:15 18.07.2099",
+    "uid": "2",
+    "username": "Vapex"
+  }
+}
